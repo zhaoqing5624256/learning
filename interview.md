@@ -30,6 +30,8 @@
  * 36进制加法
  * 单链表加法
  * 寻找峰值
+ * use two stack(push, pop, count) to implement queue(enqueue, dequeue)
+ 
 
 # operating system
  * linux 磁盘管理
