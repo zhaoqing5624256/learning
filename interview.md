@@ -1,5 +1,5 @@
 # DB
-+ ##  redis 
++ ##  Redis
   - 设计与实现，如果redis有一亿个key,使用keys命令是否会影响线上服务（会，因为是单线程模型，可以部署多个节点）
   - 持久化方式：aod and rdb，怎么实现
   - list怎么实现（ziplist压缩空间 and quicklist实现链表）
