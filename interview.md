@@ -18,6 +18,8 @@
  + 多线程 concurrenthashmap countdownlatch
  + Java集合类哪些是线程安全的
  + 集合类，hashmap怎么实现的
+ + sync/async IO
+
 
 # 算法
  * kth number in an array
@@ -39,6 +41,11 @@
  * 求字符串差集
  * 求平方根
  * PathSum
+ * n个字符串，要求在每个字符串上都存在的字符
+ * 线程安全，单例
+ * n个树中找出异或与最大的数
+ * 排序链表
+ 
 
 
 # operating system
@@ -68,4 +75,6 @@
  * kafka
 # 其他
  * 项目当中印象深刻的难点，如何解决
+ * 怎么设计微信朋友圈
+ * 设置抢单功能，线程安全
 
