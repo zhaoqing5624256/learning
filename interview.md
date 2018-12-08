@@ -53,6 +53,7 @@
 # 网络
  * TCP 三次握手，四次挥手，窗口，recover
  * 为什么迅雷是基于udp，而不是tcp的
+ * DNS，HTTPDNS
 
 # 消息队列
  * rmq
