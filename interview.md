@@ -63,7 +63,12 @@
  * k8 ?
 
 # 网络
- * TCP 三次握手,不要第三次握手行不行，被黑客利用，对服务器DDos攻击：https://www.jianshu.com/p/1c65840fc02d 四次挥手，窗口，recoverm,三次握手
++ ## TCP
+  + 三次握手,不要第三次握手行不行，被黑客利用，对服务器DDos攻击：https://www.jianshu.com/p/1c65840fc02d
+  + 四次挥手
+  + 窗口 
+  + recover
+  + TCP 安全性体现在哪些方面，采用了哪些机制？
  * 为什么迅雷是基于udp，而不是tcp的
  * DNS，HTTPDNS
  * 有哪些方法能加快网络连接速度
