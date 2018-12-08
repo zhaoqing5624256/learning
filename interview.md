@@ -37,6 +37,7 @@
  * find number in rotated sorted array
  * 求最大连续子数组和
  * 求字符串差集
+ * 求平方根
 
 
 # operating system
