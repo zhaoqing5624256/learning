@@ -34,9 +34,6 @@
 * final 关键字如何实现
 * 集合类，hashmap，HashMap怎么实现的
  
- 
-
-
 # 算法
  * kth number in an array
  * quick sort worst case, best case
@@ -63,9 +60,9 @@
  * 排序链表
 * ## 图
   * 最小生成树: prime, kruskal
-  * 最短路径: floyd,  
- 
- 
+  * 最短路径: floyd,  dijkstra
+  * 最长公共子序列
+  
 # operating system
  * linux 磁盘管理
  * linux 进程间通信方式 5
