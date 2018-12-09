@@ -62,8 +62,8 @@
  * n个树中找出异或与最大的数
  * 排序链表
 * ## 图
- * 最小生成树: prime, kruskal
- * 最短路径: floyd,  
+  * 最小生成树: prime, kruskal
+  * 最短路径: floyd,  
  
  
 # operating system
