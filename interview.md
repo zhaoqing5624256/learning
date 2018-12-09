@@ -15,10 +15,16 @@
   - spark ?
 
 # Java
- + 多线程 concurrenthashmap countdownlatch
- + Java集合类哪些是线程安全的
- + 集合类，hashmap怎么实现的
- + sync/async IO
+* ## 多线程 
+  * concurrenthashmap 
+  * countdownlatch
+  * volatile
+  * 内存模型
+  * Java集合类哪些是线程安全的
+  * 集合类，hashmap怎么实现的
+* ## sync/async IO
+ 
+ 
 
 
 # 算法
@@ -46,8 +52,6 @@
  * n个树中找出异或与最大的数
  * 排序链表
  
-
-
 # operating system
  * linux 磁盘管理
  * linux 进程间通信方式 5
@@ -57,6 +61,7 @@
  * 进程死锁
  * 实现LRU cache（超时淘汰，LRU淘汰） linkedlist 和 hashmap实现
  * 内存管理
+ * Buffered IO
 
 # 虚拟化
  * docker 物理机 虚拟机 部署 实现
@@ -83,8 +88,12 @@
 # 消息队列
  * rmq
  * kafka
+ 
 # 其他
  * 项目当中印象深刻的难点，如何解决
  * 怎么设计微信朋友圈
  * 设置抢单功能，线程安全
+ 
+# 前端
+ * Vue, React 双向绑定是如何实现的
 
