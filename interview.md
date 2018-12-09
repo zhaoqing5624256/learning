@@ -78,7 +78,7 @@
  * 要实现两台机器及时高效通讯应该怎么做？如何关闭 Nagel 算法？
  * socket 中 SO_REUSEPORT 和 SO_REUSEADDR 的区别？
  * select、epool 的区别？底层的数据结构是什么？
- * python 携程
+ * python 协程
 
 # 消息队列
  * rmq
