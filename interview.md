@@ -27,6 +27,7 @@
   * volatile
   * 内存模型
   * Java集合类哪些是线程安全的
+  * ArrayList扩容
   
 * sync/async IO
 * 垃圾回收算法
