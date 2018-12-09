@@ -5,14 +5,20 @@
   - list怎么实现（ziplist压缩空间 and quicklist实现链表）
   - sorted set怎么实现（dict+skiplist）
   - skiplist数据结构，实现
+  - Redis 底层用到了哪些数据结构？使用 Redis 的 set 来做过什么？
+  - Redis 使用过程中遇到什么问题？搭建过 Redis 集群吗？
+  - 存储一个 Blob 文件，如何建索引？如果前缀部分大都相似怎么办？文件大小相差太多怎么办？
   
-+ ## MYSQL 
++ ## MySQL 
   - 索引(innodb, b+ tree, 为什么用b+树做索引节点，一个节点存了多少数据，怎么规定大小，与磁盘页对应)
+  - MySQL Hash 索引适用情况？举下例子？
   - 调优
   - 分库分表
   - 事务隔离级别
   - mongo ？
   - spark ?
+  - MySQL 索引是不是越多越好？为什么？
+  - 如何分析“慢查询”日志进行 SQL/索引 优化？
 
 # Java
 * ## 多线程 
@@ -21,10 +27,12 @@
   * volatile
   * 内存模型
   * Java集合类哪些是线程安全的
-  * 集合类，hashmap怎么实现的
+  
 * sync/async IO
 * 垃圾回收算法
 * Java 内存分配策略？多个线程同时请求内存，如何分配？
+* final 关键字如何实现
+* 集合类，hashmap，HashMap怎么实现的
  
  
 
@@ -53,6 +61,10 @@
  * 线程安全，单例
  * n个树中找出异或与最大的数
  * 排序链表
+* ## 图
+ * 最小生成树: prime, kruskal
+ * 最短路径: floyd,  
+ 
  
 # operating system
  * linux 磁盘管理
@@ -85,7 +97,6 @@
  * 要实现两台机器及时高效通讯应该怎么做？如何关闭 Nagel 算法？
  * socket 中 SO_REUSEPORT 和 SO_REUSEADDR 的区别？
  * select、epool 的区别？底层的数据结构是什么？
- * python 协程
 
 # 消息队列
  * rmq
@@ -98,4 +109,6 @@
  
 # 前端
  * Vue, React 双向绑定是如何实现的
+ * python 协程
+
 
