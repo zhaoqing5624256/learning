@@ -34,6 +34,7 @@
 * Java 内存分配策略？多个线程同时请求内存，如何分配？
 * final 关键字如何实现
 * 集合类，hashmap，HashMap怎么实现的
+* 类加载
  
 # 算法
  * kth number in an array
