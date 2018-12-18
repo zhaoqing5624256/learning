@@ -79,7 +79,8 @@
  * 桶排序
  * 蛇形打印
  * Minimum Window Substring
-
+ * String shifting(O(n) using KMP)
+ * 给定整数n和m, 将1到n的这n个整数按字典序排列之后, 求其中的第m个数字。
 
 * ## 图
   * 最小生成树: prime, kruskal
