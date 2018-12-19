@@ -44,6 +44,7 @@
 * 类加载
 * finalize
 * CopyOnWriteArrayList
+* 强引用，软引用，弱引用，虚引用
  
 # 算法
  * kth number in an array
