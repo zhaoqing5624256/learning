@@ -51,7 +51,7 @@
 * finalize
 * CopyOnWriteArrayList
 * 强引用，软引用，弱引用，虚引用
-* java内部类为什么可以访问外部类的属性成员
+* java内部类为什么可以访问外部类的属性成员，什么是内部类，什么是匿名内部类
 * 为啥要采用双亲委派模型？
 * Exception
 * integer与int区别
