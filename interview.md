@@ -41,6 +41,7 @@
   * synchronized的底层实现
   * 多线程中断的原理
   * sleep, wait, notify, notifyAll
+  * ThreadLocal, 线程池参数
 * sync/async IO
 * 垃圾回收算法
 * Java 内存分配策略？多个线程同时请求内存，如何分配？
