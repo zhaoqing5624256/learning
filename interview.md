@@ -108,6 +108,7 @@
  * Permutation
  * two sum, three sum, four sum
  * 两有序数组，共同中位数
+ * 给很多单词，求某子串出现的次数
 
 * ## 图
   * 最小生成树: prime, kruskal
