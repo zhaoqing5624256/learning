@@ -121,6 +121,7 @@
  * 从 1 到 n 整数中 1 出现的次数
  * 统计一个数字在排序数组中出现的次数。
  * 并查集, friend relationship
+ * valid number
 
 * ## 图
   * 最小生成树: prime, kruskal
