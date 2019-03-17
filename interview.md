@@ -218,6 +218,9 @@
 # 消息队列
  * rmq
  * kafka
+
+# 分布式
+ * https://www.jianshu.com/p/7afd5cba67ca 分布式锁
  
 # 其他
  * 项目当中印象深刻的难点，如何解决
