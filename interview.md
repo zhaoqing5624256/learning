@@ -77,6 +77,11 @@
 * Exception
 * integer与int区别
 * 抽象类与接口类区别
+* Java 8的内存分代改进
+* JVM垃圾回收机制，何时触发MinorGC等操作
+* jvm中一次完整的GC流程（从ygc到fgc）是怎样的，重点讲讲对象如何晋升到老年代，几种主要的jvm参数等
+
+
  
 # 算法
  * kth number in an array
