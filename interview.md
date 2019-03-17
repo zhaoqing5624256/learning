@@ -63,11 +63,6 @@
   * Fork/Join框架的理解
   * jdk8的parallelStream的理解
   * 分段锁的原理,锁力度减小的思考
-
-作者：烛光Java后端开发
-链接：https://www.jianshu.com/p/3e1d001f227b
-来源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
 * sync/async IO
 * 垃圾回收算法
 * Java 内存分配策略？多个线程同时请求内存，如何分配？
