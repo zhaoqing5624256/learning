@@ -13,7 +13,7 @@
   - 为啥不能做持久化数据存储引擎
   - Redis的并发竞争问题如何解决了解Redis事务的CAS操作吗
   - 缓存机器增删如何对系统影响最小，一致性哈希的实现
-  - new
+  ------
   - Redis持久化的几种方式，优缺点是什么，怎么实现的
   - Redis的缓存失效策略
   - 缓存穿透的解决办法
@@ -58,7 +58,7 @@
   * synchronized的底层实现
   * 多线程中断的原理
   * sleep, wait, notify, notifyAll
-  - new
+  ------
   * ThreadLocal, 线程池参数
   * ThreadLocal用过么，原理是什么，用的时候要注意什么
   * Synchronized和Lock的区别3、synchronized 的原理，什么是自旋锁，偏向锁，轻量级锁，什么叫可重入锁，什么叫公平锁和非公平锁
