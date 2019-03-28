@@ -265,3 +265,7 @@
  * raft, paxos
  * netty, nio
  * 如何设计有海量数据的存储系统
+ * 如何保证服务的幂等性
+
+ * cookie, session保证
+ * cookie, session
